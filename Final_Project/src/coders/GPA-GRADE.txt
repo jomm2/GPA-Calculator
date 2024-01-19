@@ -1,0 +1,9 @@
+cce101 : 3.5 : 3.0
+cce102 : 3.5 : 3.0
+contem : 3.5 : 3.0
+nstp : 3.5 : 3.0
+science : 3.0 : 3.0
+math : 3.0 : 3.0
+pe : 4.0 : 2.0
+porcom : 3.0 : 6.0
+Average: 3.31
